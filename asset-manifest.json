@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/muthurajmd/redbus.git/static/css/main.d1dabc41.css",
-    "main.js": "/muthurajmd/redbus.git/static/js/main.0be9f1b7.js",
-    "static/js/787.718d1bd2.chunk.js": "/muthurajmd/redbus.git/static/js/787.718d1bd2.chunk.js",
-    "static/media/slick.svg": "/muthurajmd/redbus.git/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/muthurajmd/redbus.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/muthurajmd/redbus.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/muthurajmd/redbus.git/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/muthurajmd/redbus.git/index.html",
-    "main.d1dabc41.css.map": "/muthurajmd/redbus.git/static/css/main.d1dabc41.css.map",
-    "main.0be9f1b7.js.map": "/muthurajmd/redbus.git/static/js/main.0be9f1b7.js.map",
-    "787.718d1bd2.chunk.js.map": "/muthurajmd/redbus.git/static/js/787.718d1bd2.chunk.js.map"
+    "main.css": "/redbus/static/css/main.edaf2ae1.css",
+    "main.js": "/redbus/static/js/main.3dd19063.js",
+    "static/js/787.718d1bd2.chunk.js": "/redbus/static/js/787.718d1bd2.chunk.js",
+    "static/media/slick.svg": "/redbus/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/redbus/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/redbus/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/redbus/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/redbus/index.html",
+    "main.edaf2ae1.css.map": "/redbus/static/css/main.edaf2ae1.css.map",
+    "main.3dd19063.js.map": "/redbus/static/js/main.3dd19063.js.map",
+    "787.718d1bd2.chunk.js.map": "/redbus/static/js/787.718d1bd2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1dabc41.css",
-    "static/js/main.0be9f1b7.js"
+    "static/css/main.edaf2ae1.css",
+    "static/js/main.3dd19063.js"
   ]
 }
